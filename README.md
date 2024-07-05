@@ -1,4 +1,4 @@
-# file descriptions
+# File Descriptions
 main.py - fixed version.
 
 main_fixed.py - fixed the shibe.online error (the website is down and the commands are disabled).
