@@ -1,4 +1,4 @@
-[orginal script](https://github.com/Hotment/whitetrashyts-r34discordbot)
+[orginal script](https://github.com/whitetrashyt/r34discordbot)
 
 # File Descriptions
 main.py - fixed version.
